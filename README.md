@@ -1,6 +1,6 @@
 # Real Estate Web Application
 
-Welcome to our Real Estate Web Application project! This project, developed using React.js, offers a visually stunning interface with captivating animations, elegant cards, and a seamless slider feature. Leveraging Motion.js for animations and Swiper components (Swiper, SwiperSlide, useSwiper), I've crafted an immersive experience for users.
+Welcome to our Real Estate Web Application project! This project, developed using React.js, offers a visually stunning interface with captivating animations, elegant cards, and a seamless slider feature. Leveraging `Motion.js` for animations and Swiper components (Swiper, SwiperSlide, useSwiper), I've crafted an immersive experience for users.
 
 ## Features
 - Beautiful Interface: Enjoy a visually appealing design crafted to enhance user experience.
